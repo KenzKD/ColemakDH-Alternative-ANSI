@@ -1,6 +1,6 @@
 # ColemakDH-BetterANSI
 
-I made a slightly better version for the Colemak DH Layout on ANSI which you can download [here](https://github.com/bobettes1/ColemakDH-BetterANSI/blob/main/colemaka.zip)
+I made a slightly better version for the Colemak DH Layout on ANSI so that it is closer to what was advertised on the [ColemakDH site](https://colemakmods.github.io/mod-dh/) which you can download [here](https://github.com/bobettes1/ColemakDH-BetterANSI/blob/main/colemaka.zip)
 
 I used the original [ColemakDH for matrix](https://github.com/ColemakMods/mod-dh/tree/master/klc) as a basis and then changed it a bit so that the :
 * CAPSLOCK BUTTON WAS MAPPED TO BE BACKSPACE 
