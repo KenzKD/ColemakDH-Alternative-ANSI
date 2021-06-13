@@ -1,4 +1,4 @@
-# ColemakDH-ALT-ANSI
+# ColemakDH-Alternative-ANSI
 
 I made an alternative version for the Colemak DH Layout on to suit my laptop keyboard so that it is closer to what was advertised on the [ColemakDH site](https://colemakmods.github.io/mod-dh/). 
 
