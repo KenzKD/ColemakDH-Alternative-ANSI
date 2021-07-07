@@ -1,6 +1,6 @@
 # ColemakDH-Alternative-ANSI
 
-I made an alternative version for the Colemak DH Layout on to suit my laptop keyboard so that it is closer to what was advertised on the [ColemakDH site](https://colemakmods.github.io/mod-dh/). 
+I made an alternative version for the [ColemakDH site](https://colemakmods.github.io/mod-dh/) Layout on to suit my laptop keyboard.
 
 I know that the curl/angle mod gets sacrificed here but this is the best compromise I could come up with for my laptop since some of my keycaps dont match with others.(I like my physical layout to match the software) 
 
